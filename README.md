@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Stats
 ![Github stats_1](https://github-readme-stats.vercel.app/api?username=guifrancisco&show_icons=true&include_all_commits=true&theme=github_dark)
- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifrancisco&layout=compact&langs_count=16&theme=github_dark"/> 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifrancisco&layout=compact&langs_count=16&theme=github_dark"/> 
 ## Stack
 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
