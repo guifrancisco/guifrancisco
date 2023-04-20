@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 ## Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=guifrancisco&show_icons=true&include_all_commits=true&theme=github_dark)]
-
+![Github stats_1](https://github-readme-stats.vercel.app/api?username=guifrancisco&show_icons=true&include_all_commits=true&theme=github_dark)
+ <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifrancisco&layout=compact&langs_count=16&theme=github_dark"/> 
 ## Stack
 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 ### Learning
 ![AMS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
+  
