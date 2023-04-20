@@ -18,37 +18,18 @@ Here are some ideas to get you started:
 -->
 
 ## Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=gschurck alt=gschurck /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=gschurck&show_icons=true&include_all_commits=true&theme=github_dark)](https://github.com/gschurck/tradoge)
-![](https://hit.yhype.me/github/profile?user_id=21091232)
-
-## Projects
-
-- :technologist: Work in progress :
-  - :dog: [TraDOGE](https://github.com/gschurck/tradoge)
-  - :mag: [Software Finder: An innovative way to find underground softwares according to your needs](https://gschurck.github.io/projects/software-finder/)
-  - :trollface: A website to easily search and find memes
-- :date: Planned :
-  - :whale2: [A tool to optimize Docker containers resources consumption on a local environment](https://gschurck.github.io/projects/lightwhale/)
-
-### Areas of interest
-
-**Almost everything in IT** : Software engineering, Web development, Cloud, Linux, Blockchain, Security...
+[![Github stats](https://github-readme-stats.vercel.app/api?username=guifrancisco&show_icons=true&include_all_commits=true&theme=github_dark)]
 
 ## Stack
 
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-![OpenJDK Badge](https://img.shields.io/badge/OpenJDK-FFF?logo=openjdk&logoColor=000&style=for-the-badge)
-![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=for-the-badge)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
-![Angular Badge](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
-![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Learning
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
+![AMS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
