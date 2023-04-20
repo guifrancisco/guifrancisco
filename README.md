@@ -1,10 +1,5 @@
-# Hello, I'm Guillaume Schurck
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guillaumeschurck/)](https://www.linkedin.com/in/guillaumeschurck/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://www.twitter.com/gschurck/)
-
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://gschurck.github.io/)](https://gschurck.github.io/) 
-
-I am a french student in computer science, at engineering school ENSIIE.
+# Hello, I'm Guilherme Francisco
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guifrancisco/)](https://www.linkedin.com/in/guifrancisco/)
 <!--
 - 📈 I'm currently working on a trading bot for cryptocurrency in Python, [TraDOGE](https://github.com/gschurck/tradoge)
 - 💰 I plan to develop a website to help investing in cryptocurrencies, with exchanges API
