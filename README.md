@@ -3,8 +3,8 @@
 
 ## Stats
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guifrancisco&include_all_commits=true&count_private=true&show_icons=true&line_height=20&&theme=dark">  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifrancisco&layout=compact&langs_count=16&theme=dark"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guifrancisco&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark">  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifrancisco&layout=compact&langs_count=16&theme=github_dark"/> 
 </div>
   
 ## Stack
