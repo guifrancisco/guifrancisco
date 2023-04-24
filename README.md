@@ -1,13 +1,16 @@
 # Hello, I'm Guilherme Francisco
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guifrancisco/)](https://www.linkedin.com/in/guifrancisco/)
 
-## Stats
+## 📊 GitHub Profile Stats
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guifrancisco&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark">  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifrancisco&layout=compact&langs_count=16&theme=github_dark"/> 
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guifrancisco github stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=guifrancisco&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guifrancisco top languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=guifrancisco&langs_count=8&layout=compact&theme=react&hide_border=true" height="192px"/></a>
+  <br/>
 </div>
-  
-## Stack
+
+## 📘 Stack
 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -17,7 +20,7 @@
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Learning
+### 📖 Learning
 ![AMS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
   
