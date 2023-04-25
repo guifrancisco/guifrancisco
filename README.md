@@ -10,8 +10,8 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guifrancisco github stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=guifrancisco&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="155px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guifrancisco top languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=guifrancisco&langs_count=8&layout=compact&theme=react&hide_order=true" height="155px"/></a><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=guifrancisco&theme=react" height="275px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guifrancisco top languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=guifrancisco&langs_count=8&layout=compact&theme=react&hide_border=true" height="155px"/></a></br></br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=guifrancisco&theme=react&hide_border=true" height="275px"/></a>
   
 </div>
 
