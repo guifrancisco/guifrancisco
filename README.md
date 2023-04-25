@@ -1,4 +1,8 @@
-# Hello, I'm Guilherme Francisco
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&center=true&vCenter=true&repeat=false&width=435&lines=Guilherme+Francisco" alt="Typing SVG" /></a>
+</p>
 
 ## 📊 GitHub Profile Stats
 <div>
