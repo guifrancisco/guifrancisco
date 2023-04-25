@@ -2,18 +2,21 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&center=true&vCenter=true&repeat=false&width=435&lines=Guilherme+Francisco" alt="Typing SVG" /></a><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Back-end+developer;Aways+learning+new+things" alt="Typing SVG" /></a>
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+developer;Aways+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 ## 📊 GitHub Profile Stats
 <div>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guifrancisco github stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=guifrancisco&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="155x"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guifrancisco top languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=guifrancisco&langs_count=8&layout=compact&theme=react&hide_border=true" height="155x"/></a>
-  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guifrancisco github stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=guifrancisco&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="155px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guifrancisco top languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=guifrancisco&langs_count=8&layout=compact&theme=react&hide_order=true" height="155px"/></a><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=guifrancisco&theme=react" height="275px"/></a>
+  
 </div>
+
+
+
 
 ## 📘 Stack
 
