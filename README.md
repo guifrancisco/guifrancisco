@@ -5,8 +5,8 @@
 <div>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guifrancisco github stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=guifrancisco&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="165px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guifrancisco top languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=guifrancisco&langs_count=8&layout=compact&theme=react&hide_border=true" height="165px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guifrancisco github stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=guifrancisco&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="160x"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guifrancisco top languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=guifrancisco&langs_count=8&layout=compact&theme=react&hide_border=true" height="160x"/></a>
   <br/>
 </div>
 
