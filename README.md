@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Guilherme+Francisco" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Guilherme+Francisco" alt="Typing name SVG" /></a>
 </p>
 
 <p align="center">
@@ -8,18 +8,18 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+developer;Aways+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-## 📊 GitHub Profile Stats
+<h3> 📊 GitHub Profile Stats </h3>
 
 <!-- https://github.com/jstrieb/github-stats -->
 
-![GitHub-Overview](https://github.com/guifrancisco/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![GitHub-Languages](https://github.com/guifrancisco/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+  <a href="#"><img alt="guifrancisco's Github Stats" src="https://github.com/guifrancisco/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" height="350px"/></a>
+  <a href="#"><img alt="guifrancisco's Top Languages" src="https://github.com/guifrancisco/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" height="350px"/></a>
 
-### 📈 Activity Graph 
+<h4> 📈 Activity Grap </h4> 
 
-![Guifrancisco's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=guifrancisco&theme=react-dark)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guifrancisco's Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=guifrancisco&theme=react-dark"/></a>
 
-## 📘 Stack
+<h3> 📘 Stack </h3>
 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
