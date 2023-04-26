@@ -17,7 +17,7 @@
 
 <h4> 📈 Activity Grap </h4> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guifrancisco's Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=guifrancisco&theme=react-dark" height = "295px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guifrancisco's Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=guifrancisco&theme=react-dark"/></a>
 
 <h3> 📘 Stack </h3>
 
