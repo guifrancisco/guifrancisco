@@ -1,6 +1,16 @@
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Guilherme+Francisco" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+developer;Aways+learning+new+things" alt="Typing SVG" /></a>
+</p>
+
 ## 📊 GitHub Profile Stats
-<div>
-  <!-- https://github.com/jstrieb/github-stats -->
+
+<!-- https://github.com/jstrieb/github-stats -->
 
 ![GitHub-Overview](https://github.com/guifrancisco/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![GitHub-Languages](https://github.com/guifrancisco/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
@@ -8,9 +18,6 @@
 ### 📈 Activity Graph 
 
 ![Guifrancisco's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=guifrancisco&theme=react-dark)
-
-
-</div>
 
 ## 📘 Stack
 
