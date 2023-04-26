@@ -5,6 +5,11 @@
 ![GitHub-Overview](https://github.com/guifrancisco/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![GitHub-Languages](https://github.com/guifrancisco/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
+### 📈 Activity Graph 
+
+![Guifrancisco's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=guifrancisco&theme=react-dark)
+
+
 </div>
 
 ## 📘 Stack
