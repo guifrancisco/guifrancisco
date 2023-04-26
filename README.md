@@ -12,8 +12,8 @@
 
 <!-- https://github.com/jstrieb/github-stats -->
 
-  <a href="#"><img alt="guifrancisco's Github Stats" src="https://github.com/guifrancisco/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" height="250px"/></a>
-  <a href="#"><img alt="guifrancisco's Top Languages" src="https://github.com/guifrancisco/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" height="250px"/></a>
+  <a href="#"><img alt="guifrancisco's Github Stats" src="https://github.com/guifrancisco/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" height="235px"/></a>
+  <a href="#"><img alt="guifrancisco's Top Languages" src="https://github.com/guifrancisco/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" height="235px"/></a>
 
 <h4> 📈 Activity Grap </h4> 
 
