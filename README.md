@@ -1,25 +1,24 @@
 <div align="center">
-
   <p>
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Guilherme+Francisco" alt="Typing name SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Guilherme+Francisco" alt="Typing name SVG 1" /></a>
   </p>
-
   <p>
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=A+long+time+ago+in+a+galaxy+far,+far+away+...;A+full-stack+developer+was born;Committed+to+master+the+force+of+coding;May+the+--force+be+with+you" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=A+long+time+ago+in+a+galaxy+far,+far+away+...;A+software+engineer+was+ born;Committed+to+master+the+force+of+coding;May+the+--force+be+with+you" alt="Typing SVG 2" /></a>
   </p>
   
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc0ZjhhODc3NGNlNjE1Yzc3NWI3ZDg4ODU0ZmE5ZTQzOGUyN2MzNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/TIkmn4n7mFEEvXASb6/giphy.gif" height="245px" alt="Baby yoda" />
-  
 </div>
 
 <h3> 📊 GitHub Profile Stats </h3>
 
 <!-- https://github.com/jstrieb/github-stats -->
 
-  <a href="#"><img alt="guifrancisco's Github Stats" src="https://github.com/guifrancisco/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" height="245px"/></a>
-  <a href="#"><img alt="guifrancisco's Top Languages" src="https://github.com/guifrancisco/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" height="245px"/></a>
+<div height="245px">
+  <a href="#"><img alt="guifrancisco's Github Stats" src="https://github.com/guifrancisco/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/></a>
+  <a href="#"><img alt="guifrancisco's Top Languages" src="https://github.com/guifrancisco/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/></a>
+</div>
 
 <h4> 📈 Activity Grap </h4> 
 
