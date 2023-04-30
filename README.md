@@ -7,7 +7,7 @@
 
   <p>
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=Software+Enginner;Aways+learning+new+things;A+long+time+ago+in+a+galaxy+far+far+away..." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=A+long+time+ago+in+a+galaxy+far,+far+away+...;A+full-stack+developer+was born;Committed+to+mastering+the+force+of+coding;May+the+--force+be+with+you" alt="Typing SVG" /></a>
   </p>
   
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc0ZjhhODc3NGNlNjE1Yzc3NWI3ZDg4ODU0ZmE5ZTQzOGUyN2MzNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/TIkmn4n7mFEEvXASb6/giphy.gif" height="245px" alt="Baby yoda" />
