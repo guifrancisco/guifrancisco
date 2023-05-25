@@ -19,7 +19,7 @@
 
 <h4> 📈 Activity Grap </h4> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="guifrancisco's Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=guifrancisco&theme=react-dark"/></a>
+[![Guifrancisco's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guifrancisco&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3> 📘 Stack </h3>
 
