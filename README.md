@@ -34,4 +34,6 @@
 ### 📖 Learning
 ![AMS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
   
