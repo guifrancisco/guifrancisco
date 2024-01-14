@@ -19,7 +19,7 @@
 
 <h4> 📈 Activity Grap </h4> 
 
-[![Guifrancisco's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guifrancisco&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](./profile-3d-contrib/profile-night-view.svg)
 
 <h3> 📘 Stack </h3>
 
@@ -35,5 +35,5 @@
 ![AMS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
   
